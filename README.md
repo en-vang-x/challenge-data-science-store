@@ -2,7 +2,7 @@
 ---
 📌 Descripción
 ---
-Este proyecto forma parte del desafío Alura Store, cuyo objetivo es ayudar al Sr. Juan a decidir cuál de sus cuatro tiendas debe vender para invertir en un nuevo negocio. Como analista de datos, tu misión es realizar un estudio detallado del rendimiento de cada tienda con base en cinco aspectos clave.
+Este proyecto forma parte del desafío Alura Store. Durante este desafío, ayudarás al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento. Para ello, analizarás datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store. El objetivo es identificar la tienda menos eficiente y presentar una recomendación final basada en los datos.
 
 ---
 🧠 Objetivo del Proyecto
